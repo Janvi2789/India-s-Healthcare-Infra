@@ -1,7 +1,7 @@
 # **India's Healthcare Infrastructure Analysis**
 
 ## OVERVIEW: 
-This project analyzes the healthcare infrastructure across Indian states using government-published data from Rural Health Statistics 2021-22. It presents insights on the availability and adequacy of Primary Health Centres (PHCs), Community Health Centres (CHCs) and Sub-Centres (SCs) in relation to population needs. By analyzing healthcare facility distribution relative to population, the power-bi dashboard helps users in exploring underserved states where health infrastructure is lacking.
+This project analyzes the healthcare infrastructure across Indian states using government published data from Rural Health Statistics 2021-22. It presents insights on the availability and adequacy of Primary Health Centres (PHCs), Community Health Centres (CHCs) and Sub-Centres (SCs) in relation to population needs. By analyzing healthcare facility distribution relative to population, the power-bi dashboard helps users in exploring underserved states where health infrastructure is lacking.
 
 ## PROBLEM OBJECTIVE: 
 India has one of the largest populations in the world, but does everyone have equal access to basic healthcare? With millions depending on government facilities like Sub Centres (SCs), Primary Health Centres (PHCs), and Community Health Centres (CHCs), it's important to ask:
@@ -10,12 +10,12 @@ India has one of the largest populations in the world, but does everyone have eq
   * How many facilities are required, and how many actually exist?
   * Are both urban and rural populations adequately served, or are there noticeable gaps?
 
-This project aims to uncover which states are well-equipped, which are lagging, and how large the shortfall is, by comparing population needs with available infrastructure. using real government data.
+This project aims to identify which states are well-equipped, which are lagging, and how large the shortfall is, by comparing population needs with available infrastructure. using real government data.
 
 ## DATASET USED:
  *  Rural Health Statistics 2021–22
  *  Source: Ministry of Health and Family Welfare, Government of India
- *  Includes data on required, existing, and shortfall numbers for SCs, PHCs, and CHCs (covers both rural and urban areas). Also provides state-wise projected population (rural & urban), used to calculate population to type of facility ratios.
+ *  Includes data on required, existing, and shortfall numbers for SCs, PHCs, and CHCs (covers both rural and urban areas). Also provides state-wise population (rural & urban), used to calculate population to type of facility ratios.
  * Format: PDF: cleaned and organized using **Excel**
 
 ### Excel Cleaning:
@@ -55,8 +55,8 @@ I used Excel to extract and clean the data tables from the Rural Health Statisti
 * States with large gaps in coverage (e.g., UP, Bihar) clearly visible.
   
 ## Insights
-* Rural–urban imbalance can be clearly seen: While 65.15% of India’s population is rural, healthcare facilities are not proportionately distributed, leaving rural areas under-served across all levels—Sub-Centres, PHCs, and CHCs.
-* Sub-Centres are the most widespread accounting for almost 162k, but still fall short in high-population states. Uttar Pradesh and Bihar alone account for a shortfall of over 27K Sub-Centres.
+* Rural–urban imbalance can be clearly seen: While 65.15% of India’s population is rural, healthcare facilities are not proportionately distributed, leaving rural areas under-served across all levels i.e Sub-Centres, PHCs, and CHCs.
+* Sub-Centres are the most widespread accounting for almost 162k, but still fall short in high-population states. It can be seen that Uttar Pradesh and Bihar alone account for a shortfall of over 27K Sub-Centres.
 * PHC access is also highly inadequate:
    * Only 45% of the population is adequately covered.
    * 111 million people (8%) face critical gaps in PHC access.
@@ -68,8 +68,8 @@ I used Excel to extract and clean the data tables from the Rural Health Statisti
 * States like Uttar Pradesh, Bihar, Maharashtra, and Madhya Pradesh consistently appear among the worst-performing in terms of shortfall across all facility types.
 
 ## Conclusion
-* The data highlights a major gap between rural healthcare needs and available infrastructure. Although over 65% of India’s population lives in rural areas, the number of Sub-Centres, PHCs, and CHCs falls far short, especially in large states like UP, Maharashta etc. These gaps directly affect millions of people who struggle to access basic health services.
+* The data highlights a major gap between rural healthcare needs and available infrastructure. Although over 65% of India’s population lives in rural areas, the number of Sub-Centres, PHCs, and CHCs falls really short, especially in large states like UP, Maharashta etc. These gaps directly affect millions of people who struggle to access basic health services.
 * This issue is even more serious considering that these shortfalls existed during the COVID-19 pandemic. At a time when strong healthcare systems were crucial, many rural areas remained unprepared. Such gaps during a crisis can be or most likely were devastating for already vulnerable populations.
-* To close these gaps, India must invest in expanding and upgrading rural health infrastructure, ensuring facilities are not only built but properly staffed and equipped. This is essential for both everyday care and future health emergencies.
+* To close these gaps, India must invest in expanding and upgrading rural health infrastructure, ensuring facilities are not only built but properly staffed and equipped. This is essential for both everyday care and future health emergencies like COVID-19.
 
 
