@@ -10,7 +10,7 @@ India has one of the largest populations in the world, but does everyone have eq
   * How many facilities are required, and how many actually exist?
   * Are both urban and rural populations adequately served, or are there noticeable gaps?
 
-This project aims to identify which states are well-equipped, which are lagging, and how large the shortfall is, by comparing population needs with available infrastructure. using real government data.
+This project aims to identify which states are well-equipped, which are lagging behind, and how large the shortfall is, by comparing population needs with available infrastructure. using real government data.
 
 ## DATASET USED:
  *  Rural Health Statistics 2021–22
