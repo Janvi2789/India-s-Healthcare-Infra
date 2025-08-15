@@ -70,6 +70,7 @@ I used Excel to extract and clean the data tables from the Rural Health Statisti
 ## Conclusion
 * The data highlights a major gap between rural healthcare needs and available infrastructure. Although over 65% of India’s population lives in rural areas, the number of Sub-Centres, PHCs, and CHCs falls really short, especially in large states like UP, Maharashta etc. These gaps directly affect millions of people who struggle to access basic health services.
 * This issue is even more serious considering that these shortfalls existed during the COVID-19 pandemic. At a time when strong healthcare systems were crucial, many rural areas remained unprepared. Such gaps during a crisis can be or most likely were devastating for already vulnerable populations.
-* To close these gaps, India must invest in expanding and upgrading rural health infrastructure, ensuring facilities are not only built but properly staffed and equipped. This is essential for both everyday care and future health emergencies like COVID-19.
+* To close the rural healthcare gap, the government should urgently invest in building more Sub-Centres, PHCs, and CHCs in underserved states like Uttar Pradesh, Bihar, and Madhya Pradesh, while ensuring they are fully staffed and equipped through targeted use of National Health Mission funds. This is essential for both everyday care and future health emergencies like COVID-19.
+* As a target, building approximately 30,000 Sub-Centres, 7,000 PHCs, and 5,000 CHCs nationwide over the next 5 years would help address current shortages and reduce overload in these facilities, significantly improving rural healthcare coverage.
 
 
